@@ -1,7 +1,7 @@
 # SeleniumTesting
 
 ## Summary
-This is an example of a C# NUnit test with SpecFlow which creates a unique account on an automation test site and then checks it can log in.
+This is an example C# NUnit test with SpecFlow which creates a unique account on an automation test site and then checks it can log in.
 
 ## Description
 The framework is written in C# following a page object model design pattern and uses NUnit with SpecFlow
